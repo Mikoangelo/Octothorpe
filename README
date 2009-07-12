@@ -1,0 +1,26 @@
+    +---------+
+    | #       |
+    | ###     |
+    | ### #  #|
+    |  #### ##|
+    |###### ##|
+    |#### # ##|
+    |## ######|
+    | ########|
+    | #### ## |
+    | #### #  |
+    | ## # #  |
+    |##  # ## |
+    |# #######|
+    |# #######|
+    |######## |
+    +---------+
+
+Except with colors.
+
+NetHack keys-ish. `h` and `l` for left and right, `j` and `k` for rotation.
+`n` for soft drop, space for hard. `p` for pause, and `q` for quit.
+Tetris-brand frustration optional, but encouraged.
+
+This game is intentionally implemented as inefficiently as possible, because I
+like it that way.
